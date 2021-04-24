@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "kaots build"
+  },
+  "name": "build-withconfig",
+  "license": "MIT"
+}

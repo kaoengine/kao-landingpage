@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "trkhanh8",
+      "name": "Tran Khanh",
+      "contributions": [
+        "doc",
+        "design",
+        "review",
+        "tool",
+        "test",
+        "maintenance",
+        "code"
+      ]
+    },
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "kaots",
+  "projectOwner": "kaoengine",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "kaots build"
+  },
+  "name": "build-withbabel",
+  "license": "MIT"
+}
